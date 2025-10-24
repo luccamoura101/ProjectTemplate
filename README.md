@@ -1,11 +1,17 @@
-# Session X — Course Y
+# Project X 
+Group members: Y, Z
 
-This repository contains the materials for **Session X** of *Course Y*.  
-- Slides: see [`slides/`](./slides/) folder  
-- Notebooks: see [`notebooks/`](./notebooks/) folder 
+This repository contains the materials for **Project X**.  
+- Presentation Slides: see [`slides/`](./slides/) folder  
+- Notebooks: see [`notebooks/`](./notebooks/) folder
+- Data: when you access correct data, place it in [`data/`](./data/) folder
+- Results: the folder [`results/`](./result/) contains our figures and tables.
+  
+---
+- Read more about this project on Medium: <Medium_Article_link>
 ---
 
-## 📑 Session Outline
+## 📑 Project Outline
 
 
 ---
