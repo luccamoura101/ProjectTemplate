@@ -1,5 +1,5 @@
 # Ignore data folder and heavy pptx files
-data/Homer_Illiad.txt
+data/Homer_Iliad.txt
 data/Homer_Odyssey.txt
 slides/*.pptx
 
